@@ -1,0 +1,3 @@
+ INFO [main] (Hook.java:26)- Excution is Started
+ INFO [main] (Hook.java:35)- https://dev45181.service-now.com/ is launched on Chrome
+ INFO [main] (Hook.java:43)- Closing all active browser instances
