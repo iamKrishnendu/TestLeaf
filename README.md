@@ -10,6 +10,7 @@
 * Maven for build control
 * Applied BDD approach with Cucumber
 * Cucumber extent report to generate test reports
+* TestNG framework used as runner
 * Log4j to generate logs 
 * Git for version control
 
