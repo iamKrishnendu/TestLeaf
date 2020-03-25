@@ -36,5 +36,5 @@
  # Test Artifacts
    Problem ticket number is stored under ```data.json``` place under ```target-->cucumber-report```
    
- #Screenshot
+ # Screenshot
    In case test execution is failed, screenshot of the failed step will be available under ```root directory --> Screenshot
